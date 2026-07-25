@@ -225,19 +225,6 @@ ICCKE 2023
 
 [Paper Link](https://www.researchgate.net/profile/Bahareh-Kaviani-Baghbaderani/publication/375978279_Density_Estimation_Helps_Adversarial_Robustness/links/65719cfcfc4b416622a503b3/Density-Estimation-Helps-Adversarial-Robustness.pdf)
 
-# Citation
-
-If you use this repository in your research, please cite:
-
-```bibtex
-@inproceedings{kaviani2023density,
-title={Density Estimation Helps Adversarial Robustness},
-author={Kaviani Baghbaderani, Bahareh and others},
-booktitle={13th International Conference on Computer and Knowledge Engineering (ICCKE)},
-year={2023}
-}
-```
-
 ---
 
 # License
